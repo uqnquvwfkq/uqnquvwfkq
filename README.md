@@ -1,4 +1,4 @@
-<p align="center"> 👋 Hi, I’m @codexplor
+<p align="center"> 👋 Hi, I’m @uqnquvwfkq
 <p align="center"> 👀 I’m interested in Small language models, Web devlopment, Game devlopment.
 <p align="center"> 🌱 I’m currently learning Tensorflow.
 <p align="center"> 💞️ I’m looking to collaborate on FreeCodeCamp and other Open source projects.
