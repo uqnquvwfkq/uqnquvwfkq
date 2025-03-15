@@ -1,6 +1,7 @@
-<p align="center">
+<h1 align="center">
   <strong>👋 Hi, I’m @uqnquvwfkq</strong>
-</p>
+</h1>
+
 <p align="center">
   👀 I’m interested in Small language models, Web devlopment, Game devlopment.
 </p>
