@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/github/followers/uqnquvwfkq" alt="Github Followers">
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/uqnquvwfkq/count.svg" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uqnquvwfkq&showicons=true&include_all_commits&theme=gruvbox" alt="uqnquvwfkq"></img>
 </p>
