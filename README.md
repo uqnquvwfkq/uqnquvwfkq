@@ -18,10 +18,6 @@
   <img src="https://img.shields.io/github/followers/uqnquvwfkq" alt="Github Followers">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uqnquvwfkq&showicons=true&include_all_commits&theme=gruvbox" alt="uqnquvwfkq"></img>
-</p>
-
 <!---
 uqnquvwfkq/uqnquvwfkq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
