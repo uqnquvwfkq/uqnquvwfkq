@@ -9,7 +9,7 @@
   🌱 I’m currently learning Tensorflow.
 </p>
 <p align="center">
-  💞️ I’m looking to collaborate on FreeCodeCamp and other Open source projects.
+  💞️ I’m looking to collaborate on other Open source projects.
 </p>
 <p align="center">
   📫 How to reach me: uqnquvwfkq@gmail.com
